@@ -62,6 +62,11 @@ dependencies:
   intl: ^0.20.2
   url_launcher: ^6.2.5
 
+  # File Handling
+  image_picker: ^1.0.7
+  file_picker: ^8.0.0  # Upgrade to 8.0+ to fix warnings and security issues
+  path_provider: ^2.1.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
